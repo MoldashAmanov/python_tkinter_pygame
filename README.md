@@ -1,2 +1,2 @@
 # python_tkinter
-Приложения и игры на tinter
+Приложения и игры на tkinter
